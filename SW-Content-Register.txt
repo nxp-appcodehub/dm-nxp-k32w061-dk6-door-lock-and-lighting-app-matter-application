@@ -1,0 +1,18 @@
+NXP Software Content Register
+
+Package:				dm-nxp-k32w061-dk6-door-lock-and-lighting-app-matter-application
+Version: 				1.0
+Outgoing License:		Apache License Version 2.0
+License file:			License.txt
+Description:			This software shows how to integrate a Door Lock cluster into an already existing Lighting App, both Matter examples
+Release location:		https://github.com/nxp-appcodehub/dm-nxp-k32w061-dk6-door-lock-and-lighting-app-matter-application
+Origin:					NXP (BSD-3-Clause)
+						connectedhomeip (Apache License Version 2.0) - https://github.com/project-chip/connectedhomeip/tree/v1.4.0.0
+						
+Name:                 	connectedhomeip
+Version:              	commit 43aa98c
+Outgoing license:     	Apache License Version 2.0
+License file:         	connectedhomeip/LICENSE
+Format:               	Source code and header files
+Description:          	Open source repository for Matter stack and applications
+Origin:               	connectedhomeip (Apache License Version 2.0)
